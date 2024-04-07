@@ -17,12 +17,14 @@ The program then creates an array called passwordArray to store the password cha
 Finally, the program prints out the generated password to the console.
 
 ## Lessons Learned:
-Perfect isn't always perfect 
+Perfect isn't always perfect:
+
  If the user wants both symbols and letters, program will randomly pick how many of each type to fill the password with. Originally, I used a 50% chance for 
  each. However, that looked very unnatural because most people create password that have more letters than symbols. The current progam now has a bias towards  
  letters to reflect that. This served as important reminder to think critically when designing programs. The simple solution isn't always best due to the biases  and patterns innnate to human psychology.
 
-Larger programs always break
+Larger programs always break:
+
  This was at the time the largest project I had ever programmed. I initally thought the implimentation would be fairly simple and not take long. I was very 
  wrong because once you code anything beyond "Hello World" there is 100% guarantee things will go wrong or problems you didn't predict will come up. This 
  program let me practice patience and problem solving.
